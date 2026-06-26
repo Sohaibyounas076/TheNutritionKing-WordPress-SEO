@@ -59,6 +59,12 @@ This project was completed in two phases:
 
 ### Website Design
 
+| Homepage | Shop Page | Training Gear & Accessories |
+|---|---|---|
+| ![Nutrition King Homepage](img/thenutritionking-home.png) | ![Nutrition King Shop](img/thenutritionking-shop.png) | ![Nutrition King Accessories](img/thenutritionking-accessories.png) |
+
+### Website Design
+
 **Homepage Preview:**
 ![Nutrition King Homepage](img/thenutritionking-home.png)
 
