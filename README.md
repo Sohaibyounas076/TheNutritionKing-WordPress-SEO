@@ -60,27 +60,27 @@ This project was completed in two phases:
 ### Website Design
 
 **Homepage Preview:**
-![Nutrition King Homepage](thenutritionking-home.png)
+![Nutrition King Homepage](img/thenutritionking-home.png)
 
 **Shop Page:**
-![Nutrition King Shop](thenutritionking-shop.png)
+![Nutrition King Shop](img/thenutritionking-shop.png)
 
 **Training Gear & Accessories Page:**
-![Nutrition King Accessories](thenutritionking-accessories.png)
+![Nutrition King Accessories](img/thenutritionking-accessories.png)
 
 ### SEO Results
 
 **Before SEO Optimization - Score: 56/100 (Poor)**
-![SEO Before](seo-before.png)
+![SEO Before](img/seo-before.png)
 
 **After SEO Optimization - Score: 96/100 (Excellent)**
-![SEO After](seo-after.png)
+![SEO After](img/seo-after.png)
 
 **Google Search Ranking - #1 for Brand Name:**
-![Google Search Results](google-search-results.png)
+![Google Search Results](img/google-search-results.png)
 
 **Traffic Growth After SEO Implementation:**
-![SEO Traffic Results](seo-traffic-results.png)
+![SEO Traffic Results](img/seo-traffic-results.png)
 
 ---
 
